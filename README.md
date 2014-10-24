@@ -54,7 +54,7 @@ You should create one R script called run_analysis.R that does the following.
 
 In the repository root directory you find the file "tidy_data.txt" with the tidy data set.
 
-Notes:
+__Notes:__
 When you clone this repository, it has already contains the file "tidy_data.txt". You may want to remove this first before running `source('run_analysis.R')`
 
 ## License:
