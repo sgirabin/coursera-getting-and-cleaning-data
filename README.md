@@ -45,7 +45,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## How to create the tidy data set
 
-1. clone this repository: "git clone https://github.com/sgirabin/coursera-getting-and-cleaning-data.git"
+1. Clone this repository: "git clone https://github.com/sgirabin/coursera-getting-and-cleaning-data.git"
 2. Download  data source [compressed raw data] and put into a folder on your local drive. You'll have a UCI HAR Dataset folder.(https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 3. Unzip raw data and copy the directory  to the cloned repository root directory
 4. Rename "UCI HAR Dataset" folder to `data`
